@@ -1,4 +1,4 @@
-from bot import client
+from girbot import client
 
 @client.command( "helloworld" )
 async def helloworld(ctx):
